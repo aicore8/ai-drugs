@@ -1,4 +1,4 @@
-import type { FileSpec, TabSpec } from "@aifivem/shared";
+import type { FileSpec, TabSpec } from "@aicore8/shared";
 import { DEFAULT_LOOK } from "common/drugs";
 
 export const plantsFile: FileSpec = {

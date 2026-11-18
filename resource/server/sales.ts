@@ -9,14 +9,14 @@ import {
   onClientCallback,
   online,
   pedFromNet,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import {
   fail,
   oneArg,
   randomInt,
   readId,
   rollChance,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/drugs";
 import { core, policeOnDuty, settings } from "./content";

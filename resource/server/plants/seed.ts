@@ -5,8 +5,8 @@ import {
   notify,
   online,
   vehicleOf,
-} from "@aifivem/lib/server";
-import { createLogger } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { createLogger } from "@aicore8/lib/shared";
 import { Locale, ResourceName } from "common";
 import { settings } from "../content";
 import { plants, type Spot } from "./store";

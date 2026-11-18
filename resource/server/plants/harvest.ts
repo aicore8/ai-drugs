@@ -4,9 +4,9 @@ import {
   isNear,
   notify,
   progressFor,
-} from "@aifivem/lib/server";
-import { fail, randomInt } from "@aifivem/lib/shared";
-import type { ActionResult } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { fail, randomInt } from "@aicore8/lib/shared";
+import type { ActionResult } from "@aicore8/shared";
 import { Locale } from "common";
 import { isPolice, settings } from "../content";
 import { MINUTE, plants } from "./store";
